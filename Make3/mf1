@@ -1,0 +1,10 @@
+first: zero one two
+zero:
+	echo "Hello there!"
+	
+one:
+	@echo "Target one"
+	# what's different here??
+	
+two:
+	echo "Target two"

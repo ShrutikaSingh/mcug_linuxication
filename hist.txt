@@ -1,0 +1,17 @@
+407  make div.o
+  408  make div
+  409  cat makefile
+  411  make every
+  412  cd ../Make2
+  414  cat Makefile
+  417  cd ../Make3
+  419  make
+  424  cd ..
+  426  make -f Git.txt
+  427  cd Make\ Session
+  428  cd Make3
+  429  ls
+  430  cat mf1
+  431  make -f mf1
+  432  nano mf1
+
